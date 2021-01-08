@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: JCashen/fundapp.py
+          image: JCashen/funproject
           ports:
           - name: app-port
             containerPort: 5000
